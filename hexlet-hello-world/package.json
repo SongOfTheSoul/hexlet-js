@@ -1,0 +1,11 @@
+{
+  "name": "hexlet-hello-world",
+  "version": "1.0.0",
+  "description": "Modified hello world",
+  "main": "index.js",
+  "scripts": {
+    "test": "-t"
+  },
+  "author": "Me",
+  "license": "ISC"
+}
